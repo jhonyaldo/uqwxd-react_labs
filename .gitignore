@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignorar directorios de node_modules para no subir dependencias a Git
+node_modules/
